@@ -11,5 +11,9 @@
             "email": "kosuke1216a@yahoo.co.jp"
         }
     ],
-    "require": {}
+    "require": {},
+    "repositories": {
+        "type": "git",
+        "url": "https://github.com/iisyos/girlFriend"
+      }
 }
